@@ -12,7 +12,7 @@ The ESP32 comes built in with WIFI and Bluetooth support. In addition, it's far 
 ### [MG90S](https://www.towerpro.com.tw/product/mg90s-3/)
 The hexapod used to use SG90 servos. While they seemed to have sufficient power, the gear boxes quickly burned out after continual use. The MG90S is more powerful and uses more durable metal gears. 
 
-### [PCA9685]([https://www.adafruit.com/product/815](https://cdn-learn.adafruit.com/downloads/pdf/16-channel-pwm-servo-driver.pdf) 
+### [PCA9685](https://cdn-learn.adafruit.com/downloads/pdf/16-channel-pwm-servo-driver.pdf) 
 The PCA9685 Adafruit 16-Channel 12-bit PWM is required for controlling all 18 servo motors as the ESP32 does not have enough pins for each servo. There are currently two driver boards on the Hexapod with one addressed at 0x40 and one addressed at 0x41. Here's the official [library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library) for the servo driver boards.
 
 ### Sony Playstation 3 Controller
