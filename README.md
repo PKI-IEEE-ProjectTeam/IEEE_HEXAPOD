@@ -25,6 +25,6 @@ The Hexapod should be able to walk on flat and textured surfaces. Additonally, i
 
 The hexapod should be able to walk fowards/backwards, rotate itself, and ideally be able to turn while walking.
 
-##Control
+## Control
 The hexapod should be able to be controlled wirelessly with the use of a remote controller. The hexapod should be able to work idependently, with no wires connecting it to an external power supply or controller. 
 
