@@ -20,11 +20,11 @@ The PS3 controller is a common choice for projects such as these. Here's a [libr
 
 ### Project Goals
 
-## Movement
-The Hexapod should be able to walk on flat and textured surfaces. Additonally, it should be able to walk over obstacles at least a third of its standing height. The Servo motors have an output torque of 2.2kg/cm. As such, the legs should be built with those constaints in mind. 
+#### Movement
+The Hexapod should be able to walk on flat and textured surfaces. Additonally, it should be able to walk over obstacles at least a third of its standing height (that height being the midpoint of its body to the ground when it's standing "normally"). The Servo motors have an output torque of 2.2kg/cm. As such, the legs should be built with those constaints in mind. 
 
 The hexapod should be able to walk fowards/backwards, rotate itself, and ideally be able to turn while walking.
 
-## Control
+#### Control
 The hexapod should be able to be controlled wirelessly with the use of a remote controller. The hexapod should be able to work idependently, with no wires connecting it to an external power supply or controller. 
 
